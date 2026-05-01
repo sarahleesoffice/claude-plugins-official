@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-plugins-official",
-  "description": "Directory of popular Claude Code extensions including development tools, productivity plugins, and MCP integrations",
+  "name": "sj-plugins-fork",
+  "description": "Sarah's fork of anthropics/claude-plugins-official with the discord plugin presence + allowlisted-bots fix applied. Track upstream main; drop once https://github.com/anthropics/claude-plugins-official/pull/1675 merges.",
   "owner": {
     "name": "Anthropic",
     "email": "support@anthropic.com"
